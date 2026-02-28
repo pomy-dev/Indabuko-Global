@@ -454,14 +454,14 @@ const App: FC = () => {
                   </a>
                   <br />
                   Email:{' '}
-                  <a href="mailto:indabukocalculus@gmail.com">indabukocalculus@gmail.com</a>
+                  <a href="mailto:indabukocalculus@gmail.com">info@indabukotechcrafts.co.sz</a>
                 </p>
               </div>
               <div>
                 <h3>Digital</h3>
                 <p>
                   Website:{' '}
-                  <a href="https://www.indabukotechcrafts.com" target="_blank" rel="noreferrer">
+                  <a href="https://indabuko-global.vercel.app" target="_blank" rel="noreferrer">
                     www.indabukotechcrafts.com
                   </a>
                   <br />
