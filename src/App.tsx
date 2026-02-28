@@ -1,5 +1,5 @@
 import type { FC } from 'react'
-import CompanyLogo from '../public/logo.jpg'
+import CompanyLogo from './assets/IMG/logo.jpg'
 
 const App: FC = () => {
   return (
